@@ -1,5 +1,9 @@
 <?php
 
 //изменения 
-ваппаа 4444
+class mail{
+	public function __construct(){
+		//to do
+	}
+}
 ?>
