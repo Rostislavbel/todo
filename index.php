@@ -1,6 +1,6 @@
 <?php
 
-//изменения 666 new
+//изменения 666 new d 
 class mail{
 	public function __construct(){
 		//to do
